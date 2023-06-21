@@ -1,13 +1,7 @@
-# Sample Hardhat Project
+# ReportSAFE FIR Daap
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This project is a decentralized compliant filing app. It offers increased transparency, security, control, and collaboration while mitigating the limitations of traditional centralized systems. It can revolutionize the way FIRs are handled, improving efficiency, accountability, and trust in the criminal justice system.
 
-Try running some of the following tasks:
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
+```Hi
 ```
